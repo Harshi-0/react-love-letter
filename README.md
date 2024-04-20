@@ -1,2 +1,2 @@
 
-Website Link: [Click Here](https://github.com/Harshi-0/react-love-letter.git)
+Website Link: [Click Here](https://gh repo clone Harshi-0/react-love-letter)
